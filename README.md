@@ -34,3 +34,4 @@ This version of the project is now being developed by:
 - Github: clommm
 - Cracked.io: Sistine
 
+P.S: Support for this project has been discontinued, Apis are likely dead too. Feel Free to continue working on this project if you so wish to.
