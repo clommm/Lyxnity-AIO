@@ -1,5 +1,5 @@
 # Lyxnity AIO
-An all in account checker made in python. Made with multichecking and more. This was made to demonstrate the flaws in certain website API's.
+An all in account checker made in python. Made with multichecking and more. This was made to demonstrate the flaws in certain website API's. Mainly used for Penetration Testing.
 
 # Progress
 
